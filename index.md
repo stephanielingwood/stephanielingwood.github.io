@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Learning Journal
+
+### LOOK AT MY COOL WRITING!
 
 You can use the [editor on GitHub](https://github.com/stephanielingwood/stephanielingwood.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
